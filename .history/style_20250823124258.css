@@ -1,0 +1,18 @@
+<!- -->
+
+body{
+    min-height: 100vh;
+}
+
+.container{
+    height: 100%;
+    display: grid;
+    box-sizing: border-box;
+    grid-template-columns: 1fr 4fr;
+    grid-template-rows: 1fr 5fr;
+}
+
+div{
+
+    color: rgb(0, 167, 28);
+}

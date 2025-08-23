@@ -1,0 +1,14 @@
+body{
+    min-height: 100vh;
+}
+
+.container{
+    height: 100%;
+    display: grid;
+    box-sizing: border-box;
+}
+
+div{
+
+    color: rgb(0, 167, 28);
+}
