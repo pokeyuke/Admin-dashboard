@@ -2,13 +2,8 @@
 This is an admin dashboard project built using only HTML and CSS. It is not interactive (for now) and was created to practice CSS Flexbox and Grid skills.
 
 
-
-
-
-
-
-
-
+All the icons are free and can be accessed at fontawesome.com
+The favicon is my github profile image
 
 
  =========================================================================
